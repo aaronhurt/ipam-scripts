@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet href="nmap.xsl" type="text/xsl"?>
+<!-- Nmap 5.00 scan initiated Mon Feb 13 00:10:09 2012 as: /usr/bin/nmap -&#45;stylesheet nmap.xsl -sP -R -oX - 172.21.254.224/28 -->
+<nmaprun scanner="nmap" args="/usr/bin/nmap -&#45;stylesheet nmap.xsl -sP -R -oX - 172.21.254.224/28" start="1329113409" startstr="Mon Feb 13 00:10:09 2012" version="5.00" xmloutputversion="1.03">
+<verbose level="0" />
+<debugging level="0" />
+<host><status state="down" reason="no-response"/>
+<address addr="172.21.254.224" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.21.254.225" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.21.254.226" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.21.254.227" addrtype="ipv4" />
+</host>
+<host><status state="up" reason="echo-reply"/>
+<address addr="172.21.254.228" addrtype="ipv4" />
+<hostnames><hostname name="pndfwcor0901.franklinamerican.com" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.21.254.229" addrtype="ipv4" />
+</host>
+<host><status state="up" reason="echo-reply"/>
+<address addr="172.21.254.230" addrtype="ipv4" />
+<hostnames><hostname name="pndfwfw01.franklinamerican.com" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.21.254.231" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.21.254.232" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.21.254.233" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.21.254.234" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.21.254.235" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.21.254.236" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.21.254.237" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.21.254.238" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.21.254.239" addrtype="ipv4" />
+</host>
+<runstats><finished time="1329113411" timestr="Mon Feb 13 00:10:11 2012" elapsed="1.53"/><hosts up="2" down="14" total="16" />
+<!-- Nmap done at Mon Feb 13 00:10:11 2012; 16 IP addresses (2 hosts up) scanned in 1.53 seconds -->
+</runstats></nmaprun>

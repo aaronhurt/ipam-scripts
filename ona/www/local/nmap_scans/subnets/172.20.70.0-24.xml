@@ -1,0 +1,785 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet href="nmap.xsl" type="text/xsl"?>
+<!-- Nmap 5.00 scan initiated Sun Feb 12 23:49:34 2012 as: /usr/bin/nmap -&#45;stylesheet nmap.xsl -sP -R -oX - 172.20.70.0/24 -->
+<nmaprun scanner="nmap" args="/usr/bin/nmap -&#45;stylesheet nmap.xsl -sP -R -oX - 172.20.70.0/24" start="1329112174" startstr="Sun Feb 12 23:49:34 2012" version="5.00" xmloutputversion="1.03">
+<verbose level="0" />
+<debugging level="0" />
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.0" addrtype="ipv4" />
+</host>
+<host><status state="up" reason="echo-reply"/>
+<address addr="172.20.70.1" addrtype="ipv4" />
+<hostnames><hostname name="pnmjxacc01.franklinamerican.com" type="PTR" /></hostnames>
+</host>
+<host><status state="up" reason="echo-reply"/>
+<address addr="172.20.70.2" addrtype="ipv4" />
+<hostnames><hostname name="acytrfw.acytr.franklinamerican.com" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.3" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.4" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.5" addrtype="ipv4" />
+</host>
+<host><status state="up" reason="echo-reply"/>
+<address addr="172.20.70.6" addrtype="ipv4" />
+<hostnames><hostname name="pnmjxups01.franklinamerican.com" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.7" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.8" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.9" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.10" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.11" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.12" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.13" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.14" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.15" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.16" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.17" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.18" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.19" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.20" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.21" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.22" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.23" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.24" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.25" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.26" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.27" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.28" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.29" addrtype="ipv4" />
+</host>
+<host><status state="up" reason="echo-reply"/>
+<address addr="172.20.70.30" addrtype="ipv4" />
+<hostnames><hostname name="acytrr001.acy.franklinamerican.com" type="PTR" /></hostnames>
+</host>
+<host><status state="up" reason="echo-reply"/>
+<address addr="172.20.70.31" addrtype="ipv4" />
+<hostnames><hostname name="acytrr002.acy.franklinamerican.com" type="PTR" /></hostnames>
+</host>
+<host><status state="up" reason="echo-reply"/>
+<address addr="172.20.70.32" addrtype="ipv4" />
+<hostnames><hostname name="mjxr001.mjx.franklinamerican.com" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.33" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.34" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.35" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.36" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.37" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.38" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.39" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.40" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.41" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.42" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.43" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.44" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.45" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.46" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.47" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.48" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.49" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.50" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.51" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.52" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.53" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.54" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.55" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.56" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.57" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.58" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.59" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.60" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.61" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.62" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.63" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.64" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.65" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.66" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.67" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.68" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.69" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.70" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.71" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.72" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.73" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.74" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.75" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.76" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.77" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.78" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.79" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.80" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.81" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.82" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.83" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.84" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.85" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.86" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.87" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.88" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.89" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.90" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.91" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.92" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.93" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.94" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.95" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.96" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.97" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.98" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.99" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.100" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.101" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.102" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.103" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.104" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.105" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.106" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.107" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.108" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.109" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.110" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.111" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.112" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.113" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.114" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.115" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.116" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.117" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.118" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.119" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.120" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.121" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.122" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.123" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.124" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.125" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.126" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.127" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.128" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.129" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.130" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.131" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.132" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.133" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.134" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.135" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.136" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.137" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.138" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.139" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.140" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.141" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.142" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.143" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.144" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.145" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.146" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.147" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.148" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.149" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.150" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.151" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.152" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.153" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.154" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.155" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.156" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.157" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.158" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.159" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.160" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.161" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.162" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.163" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.164" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.165" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.166" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.167" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.168" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.169" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.170" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.171" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.172" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.173" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.174" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.175" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.176" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.177" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.178" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.179" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.180" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.181" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.182" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.183" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.184" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.185" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.186" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.187" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.188" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.189" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.190" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.191" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.192" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.193" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.194" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.195" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.196" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.197" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.198" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.199" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.200" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.201" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.202" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.203" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.204" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.205" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.206" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.207" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.208" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.209" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.210" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.211" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.212" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.213" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.214" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.215" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.216" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.217" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.218" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.219" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.220" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.221" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.222" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.223" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.224" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.225" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.226" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.227" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.228" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.229" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.230" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.231" addrtype="ipv4" />
+</host>
+<host><status state="up" reason="echo-reply"/>
+<address addr="172.20.70.232" addrtype="ipv4" />
+<hostnames />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.233" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.234" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.235" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.236" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.237" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.238" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.239" addrtype="ipv4" />
+</host>
+<host><status state="up" reason="echo-reply"/>
+<address addr="172.20.70.240" addrtype="ipv4" />
+<hostnames />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.241" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.242" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.243" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.244" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.245" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.246" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.247" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.248" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.249" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.250" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.251" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.252" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.253" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.254" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.70.255" addrtype="ipv4" />
+</host>
+<runstats><finished time="1329112184" timestr="Sun Feb 12 23:49:44 2012" elapsed="9.98"/><hosts up="8" down="248" total="256" />
+<!-- Nmap done at Sun Feb 12 23:49:44 2012; 256 IP addresses (8 hosts up) scanned in 9.98 seconds -->
+</runstats></nmaprun>

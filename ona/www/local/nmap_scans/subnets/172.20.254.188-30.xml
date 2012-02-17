@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet href="nmap.xsl" type="text/xsl"?>
+<!-- Nmap 5.00 scan initiated Mon Feb 13 00:04:43 2012 as: /usr/bin/nmap -&#45;stylesheet nmap.xsl -sP -R -oX - 172.20.254.188/30 -->
+<nmaprun scanner="nmap" args="/usr/bin/nmap -&#45;stylesheet nmap.xsl -sP -R -oX - 172.20.254.188/30" start="1329113083" startstr="Mon Feb 13 00:04:43 2012" version="5.00" xmloutputversion="1.03">
+<verbose level="0" />
+<debugging level="0" />
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.254.188" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.254.189" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.254.190" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.254.191" addrtype="ipv4" />
+</host>
+<runstats><finished time="1329113088" timestr="Mon Feb 13 00:04:48 2012" elapsed="5.01"/><hosts up="0" down="4" total="4" />
+<!-- Nmap done at Mon Feb 13 00:04:48 2012; 4 IP addresses (0 hosts up) scanned in 5.01 seconds -->
+</runstats></nmaprun>

@@ -1,0 +1,215 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet href="nmap.xsl" type="text/xsl"?>
+<!-- Nmap 5.00 scan initiated Mon Feb 13 00:10:59 2012 as: /usr/bin/nmap -&#45;stylesheet nmap.xsl -sP -R -oX - 192.168.197.0/26 -->
+<nmaprun scanner="nmap" args="/usr/bin/nmap -&#45;stylesheet nmap.xsl -sP -R -oX - 192.168.197.0/26" start="1329113459" startstr="Mon Feb 13 00:10:59 2012" version="5.00" xmloutputversion="1.03">
+<verbose level="0" />
+<debugging level="0" />
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.0" addrtype="ipv4" />
+</host>
+<host><status state="up" reason="echo-reply"/>
+<address addr="192.168.197.1" addrtype="ipv4" />
+<hostnames><hostname name="acyfw.acy.franklinamerican.com" type="PTR" /></hostnames>
+</host>
+<host><status state="up" reason="echo-reply"/>
+<address addr="192.168.197.2" addrtype="ipv4" />
+<hostnames />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.3" addrtype="ipv4" />
+</host>
+<host><status state="up" reason="echo-reply"/>
+<address addr="192.168.197.4" addrtype="ipv4" />
+<hostnames><hostname name="acyr001.acy.franklinamerican.com" type="PTR" /></hostnames>
+</host>
+<host><status state="up" reason="echo-reply"/>
+<address addr="192.168.197.5" addrtype="ipv4" />
+<hostnames><hostname name="acyr002.acy.franklinamerican.com" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.6" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.7" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.8" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.9" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.10" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.11" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.12" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.13" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.14" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.15" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.16" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.17" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.18" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.19" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.20" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.21" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.22" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.23" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.24" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.25" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.26" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.27" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.28" addrtype="ipv4" />
+</host>
+<host><status state="up" reason="echo-reply"/>
+<address addr="192.168.197.29" addrtype="ipv4" />
+<hostnames />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.30" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.31" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.32" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.33" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.34" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.35" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.36" addrtype="ipv4" />
+</host>
+<host><status state="up" reason="echo-reply"/>
+<address addr="192.168.197.37" addrtype="ipv4" />
+<hostnames />
+</host>
+<host><status state="up" reason="echo-reply"/>
+<address addr="192.168.197.38" addrtype="ipv4" />
+<hostnames />
+</host>
+<host><status state="up" reason="echo-reply"/>
+<address addr="192.168.197.39" addrtype="ipv4" />
+<hostnames />
+</host>
+<host><status state="up" reason="echo-reply"/>
+<address addr="192.168.197.40" addrtype="ipv4" />
+<hostnames />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.41" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.42" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.43" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.44" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.45" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.46" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.47" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.48" addrtype="ipv4" />
+</host>
+<host><status state="up" reason="echo-reply"/>
+<address addr="192.168.197.49" addrtype="ipv4" />
+<hostnames />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.50" addrtype="ipv4" />
+</host>
+<host><status state="up" reason="echo-reply"/>
+<address addr="192.168.197.51" addrtype="ipv4" />
+<hostnames />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.52" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.53" addrtype="ipv4" />
+</host>
+<host><status state="up" reason="echo-reply"/>
+<address addr="192.168.197.54" addrtype="ipv4" />
+<hostnames />
+</host>
+<host><status state="up" reason="echo-reply"/>
+<address addr="192.168.197.55" addrtype="ipv4" />
+<hostnames />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.56" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.57" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.58" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.59" addrtype="ipv4" />
+</host>
+<host><status state="up" reason="echo-reply"/>
+<address addr="192.168.197.60" addrtype="ipv4" />
+<hostnames />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.61" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.62" addrtype="ipv4" />
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="192.168.197.63" addrtype="ipv4" />
+</host>
+<runstats><finished time="1329113461" timestr="Mon Feb 13 00:11:01 2012" elapsed="1.92"/><hosts up="14" down="50" total="64" />
+<!-- Nmap done at Mon Feb 13 00:11:01 2012; 64 IP addresses (14 hosts up) scanned in 1.92 seconds -->
+</runstats></nmaprun>

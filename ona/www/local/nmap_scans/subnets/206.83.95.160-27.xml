@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet href="nmap.xsl" type="text/xsl"?>
+<!-- Nmap 5.00 scan initiated Mon Feb 13 00:11:01 2012 as: /usr/bin/nmap -&#45;stylesheet nmap.xsl -sP -R -oX - 206.83.95.160/27 -->
+<nmaprun scanner="nmap" args="/usr/bin/nmap -&#45;stylesheet nmap.xsl -sP -R -oX - 206.83.95.160/27" start="1329113461" startstr="Mon Feb 13 00:11:01 2012" version="5.00" xmloutputversion="1.03">
+<verbose level="0" />
+<debugging level="0" />
+<host><status state="down" reason="no-response"/>
+<address addr="206.83.95.160" addrtype="ipv4" />
+<hostnames><hostname name="206.83.95.160.ptr.us.xo.net" type="PTR" /></hostnames>
+</host>
+<host><status state="up" reason="echo-reply"/>
+<address addr="206.83.95.161" addrtype="ipv4" />
+<hostnames><hostname name="206.83.95.161.ptr.us.xo.net" type="PTR" /></hostnames>
+</host>
+<host><status state="up" reason="echo-reply"/>
+<address addr="206.83.95.162" addrtype="ipv4" />
+<hostnames><hostname name="206.83.95.162.ptr.us.xo.net" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="206.83.95.163" addrtype="ipv4" />
+<hostnames><hostname name="206.83.95.163.ptr.us.xo.net" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="206.83.95.164" addrtype="ipv4" />
+<hostnames><hostname name="206.83.95.164.ptr.us.xo.net" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="206.83.95.165" addrtype="ipv4" />
+<hostnames><hostname name="206.83.95.165.ptr.us.xo.net" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="206.83.95.166" addrtype="ipv4" />
+<hostnames><hostname name="206.83.95.166.ptr.us.xo.net" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="206.83.95.167" addrtype="ipv4" />
+<hostnames><hostname name="206.83.95.167.ptr.us.xo.net" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="206.83.95.168" addrtype="ipv4" />
+<hostnames><hostname name="206.83.95.168.ptr.us.xo.net" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="206.83.95.169" addrtype="ipv4" />
+<hostnames><hostname name="206.83.95.169.ptr.us.xo.net" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="206.83.95.170" addrtype="ipv4" />
+<hostnames><hostname name="206.83.95.170.ptr.us.xo.net" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="206.83.95.171" addrtype="ipv4" />
+<hostnames><hostname name="206.83.95.171.ptr.us.xo.net" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="206.83.95.172" addrtype="ipv4" />
+<hostnames><hostname name="206.83.95.172.ptr.us.xo.net" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="206.83.95.173" addrtype="ipv4" />
+<hostnames><hostname name="206.83.95.173.ptr.us.xo.net" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="206.83.95.174" addrtype="ipv4" />
+<hostnames><hostname name="206.83.95.174.ptr.us.xo.net" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="206.83.95.175" addrtype="ipv4" />
+<hostnames><hostname name="206.83.95.175.ptr.us.xo.net" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="206.83.95.176" addrtype="ipv4" />
+<hostnames><hostname name="206.83.95.176.ptr.us.xo.net" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="206.83.95.177" addrtype="ipv4" />
+<hostnames><hostname name="206.83.95.177.ptr.us.xo.net" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="206.83.95.178" addrtype="ipv4" />
+<hostnames><hostname name="206.83.95.178.ptr.us.xo.net" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="206.83.95.179" addrtype="ipv4" />
+<hostnames><hostname name="206.83.95.179.ptr.us.xo.net" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="206.83.95.180" addrtype="ipv4" />
+<hostnames><hostname name="206.83.95.180.ptr.us.xo.net" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="206.83.95.181" addrtype="ipv4" />
+<hostnames><hostname name="206.83.95.181.ptr.us.xo.net" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="206.83.95.182" addrtype="ipv4" />
+<hostnames><hostname name="206.83.95.182.ptr.us.xo.net" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="206.83.95.183" addrtype="ipv4" />
+<hostnames><hostname name="206.83.95.183.ptr.us.xo.net" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="206.83.95.184" addrtype="ipv4" />
+<hostnames><hostname name="206.83.95.184.ptr.us.xo.net" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="206.83.95.185" addrtype="ipv4" />
+<hostnames><hostname name="206.83.95.185.ptr.us.xo.net" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="206.83.95.186" addrtype="ipv4" />
+<hostnames><hostname name="206.83.95.186.ptr.us.xo.net" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="206.83.95.187" addrtype="ipv4" />
+<hostnames><hostname name="206.83.95.187.ptr.us.xo.net" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="206.83.95.188" addrtype="ipv4" />
+<hostnames><hostname name="206.83.95.188.ptr.us.xo.net" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="206.83.95.189" addrtype="ipv4" />
+<hostnames><hostname name="206.83.95.189.ptr.us.xo.net" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="206.83.95.190" addrtype="ipv4" />
+<hostnames><hostname name="206.83.95.190.ptr.us.xo.net" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="206.83.95.191" addrtype="ipv4" />
+<hostnames><hostname name="206.83.95.191.ptr.us.xo.net" type="PTR" /></hostnames>
+</host>
+<runstats><finished time="1329113463" timestr="Mon Feb 13 00:11:03 2012" elapsed="2.20"/><hosts up="2" down="30" total="32" />
+<!-- Nmap done at Mon Feb 13 00:11:03 2012; 32 IP addresses (2 hosts up) scanned in 2.20 seconds -->
+</runstats></nmaprun>

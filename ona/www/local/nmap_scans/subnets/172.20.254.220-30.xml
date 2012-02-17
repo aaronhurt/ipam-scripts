@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet href="nmap.xsl" type="text/xsl"?>
+<!-- Nmap 5.00 scan initiated Mon Feb 13 00:05:05 2012 as: /usr/bin/nmap -&#45;stylesheet nmap.xsl -sP -R -oX - 172.20.254.220/30 -->
+<nmaprun scanner="nmap" args="/usr/bin/nmap -&#45;stylesheet nmap.xsl -sP -R -oX - 172.20.254.220/30" start="1329113105" startstr="Mon Feb 13 00:05:05 2012" version="5.00" xmloutputversion="1.03">
+<verbose level="0" />
+<debugging level="0" />
+<host><status state="up" reason="echo-reply"/>
+<address addr="172.20.254.220" addrtype="ipv4" />
+<hostnames />
+</host>
+<host><status state="up" reason="echo-reply"/>
+<address addr="172.20.254.221" addrtype="ipv4" />
+<hostnames><hostname name="pngspfw01.franklinamerican.com" type="PTR" /></hostnames>
+</host>
+<host><status state="up" reason="echo-reply"/>
+<address addr="172.20.254.222" addrtype="ipv4" />
+<hostnames><hostname name="pngspacc01.franklinamerican.com" type="PTR" /></hostnames>
+</host>
+<host><status state="down" reason="no-response"/>
+<address addr="172.20.254.223" addrtype="ipv4" />
+</host>
+<runstats><finished time="1329113106" timestr="Mon Feb 13 00:05:06 2012" elapsed="1.21"/><hosts up="3" down="1" total="4" />
+<!-- Nmap done at Mon Feb 13 00:05:06 2012; 4 IP addresses (3 hosts up) scanned in 1.21 seconds -->
+</runstats></nmaprun>

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet href="nmap.xsl" type="text/xsl"?>
+<!-- Nmap 5.00 scan initiated Thu Nov 10 09:13:22 2011 as: /usr/bin/nmap -&#45;stylesheet nmap.xsl -sP -R -oX - records -->
+<nmaprun scanner="nmap" args="/usr/bin/nmap -&#45;stylesheet nmap.xsl -sP -R -oX - records" start="1320938002" startstr="Thu Nov 10 09:13:22 2011" version="5.00" xmloutputversion="1.03">
+<verbose level="0" />
+<debugging level="0" />
+<runstats><finished time="1320938002" timestr="Thu Nov 10 09:13:22 2011" elapsed="0.00"/><hosts up="0" down="0" total="0" />
+<!-- Nmap done at Thu Nov 10 09:13:22 2011; 0 IP addresses (0 hosts up) scanned in 0.00 seconds -->
+</runstats></nmaprun>
